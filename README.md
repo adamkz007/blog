@@ -1,3 +1,1 @@
 # blog
-
-HelLo=jicnisdc
